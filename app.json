@@ -9,8 +9,8 @@
         "RiZoeLXSpam",
         "SpamBots"
       ],   
-  "repository": "https://github.com/Bad05",
-  "website": "https://github.com/Bad05",
+  "repository": "https://github.com/RiZoeLX",
+  "website": "https://github.com/RiZoeLX",
   "success_url": "https://t.me/RiZoeLX",
   "env": {
              "API_ID": {
